@@ -9,7 +9,7 @@
   "devDependencies": {
     "@types/node": "^18.16.3",
     "esbuild": "^0.14.54",
-    "postcss": "^8.4.23",
+    "postcss": "^8.4.31",
     "solid-start-node": "^0.2.26",
     "typescript": "^5.0.4",
     "vite": "^4.3.4"
